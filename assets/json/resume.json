@@ -1,18 +1,18 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Diego Torres",
+    "label": "Investigador",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "diego.torres@lifia.info.unlp.edu.ar",
+    "phone": "+54 ...",
+    "url": "https://lifia.info.unlp.edu.ar/dr-diego-torres/",
+    "summary": "Investigadores del Centro LIFIA en el area de Web Semántica, Grafos de Conocimiento y Gestión del Conocimiento",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "Calle 50 y 120",
+      "postalCode": "1900",
+      "city": "La Plata",
+      "countryCode": "AR",
+      "region": "Buenos Aires"
     },
     "profiles": [
       {
