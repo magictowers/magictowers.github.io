@@ -2,11 +2,11 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Afiliación</a>. Centro LIFIA, Facultad de Informática, UNLP. 
+subtitle: Soy investigador en Knowledge Graph y Gestion del Conocimiento en el Centro LIFIA de la Facultad de Informática de la UNLP.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: profile_pict.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Centro LIFIA, Facultad de Informática UNLP</p>
