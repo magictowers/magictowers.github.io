@@ -27,7 +27,24 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Investigadores del Centro LIFIA y Profesor Titular en las asignaturas Objetos 1 y Web Semántica y Grafos de Conocimiento. Mis temas de investigación se centran en la gestion del conocimiento colaborativo con diferentes aristas: Representación formal del conocimiento, grafos de conocimiento, construccion colaborativa de conocimiento científico, ciencia participativa, ludificación adaptativa para la ciencia participativa.
+Investigador del Centro LIFIA. 
+
+Profesor Titular en las asignaturas Objetos 1 y Web Semántica y Grafos de Conocimiento en la UNLP y de Objetos 2 en la UNQ. 
+
+Mis linea de investigación está ligada al manejo de conocimiento en forma colaborativa. Se puede enumerar en los siguientes topicos:
+
+* Representación formal del conocimiento.
+* Web Semántica. 
+* Grafos de conocimiento.
+* Ciencia participativa (ex Ciencia Ciudadana)
+* Ludificación adaptativa.
+
+Los dominios de aplicación incluyen
+
+* Proyectos de ciencia participativa.
+* Cadena de valor agricola.
+* Industria 4.0
+* Desarrollo inmobiliario
 
 <!--
 
