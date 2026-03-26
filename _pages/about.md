@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Soy investigador en Knowledge Graph y Gestion del Conocimiento en el Centro LIFIA de la Facultad de Informática de la UNLP.
+subtitle: Soy investigador en Knowledge Graph y Gestion del Conocimiento en el Centro LIFIA de la Facultad de Informática de la UNLP La Plata Argentina.
 
 profile:
   align: right
