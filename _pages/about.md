@@ -6,7 +6,7 @@ subtitle: Soy investigador en Knowledge Graph y Gestion del Conocimiento en el C
 
 profile:
   align: right
-  image: profile_pict.jpeg
+  image: profile_pict.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Centro LIFIA, Facultad de Informática UNLP</p>
